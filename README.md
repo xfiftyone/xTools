@@ -11,3 +11,4 @@
 }
 ```  
 ## 效果 
+![avatar](https://raw.githubusercontent.com/x51/fofahelper/main/FOFA.png)
