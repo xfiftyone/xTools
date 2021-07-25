@@ -1,19 +1,17 @@
-# fofahelper
-一个fofa搜索辅助小工具
-## 配置文件 
-修改fofa.exe同目录下fofa.ini配置文件，格式如下：
+# xhelper
+A tool to quickly collect some information.
+## update
+新增shodan引擎接口；
+### 接口配置 
+xhelper.ini：
 ```
 {
-    "email": "xxx@mail.com",
-    "key": "xxxxxxxxxxxxxxxxxxxxxxxx",
-    "page": "1",
-    "size": "100"
+    "fofa_email": "xxx@mail.com",
+    "fofa_key": "xxxxxxxxxxxxxxxxxxxxxxxx",
+    "shodan_key": "xxxxxxxxxxxxxxxxxxxxxxxx"
 }
 ```  
-## 效果 
-![avatar](https://raw.githubusercontent.com/x51/fofahelper/main/Main.png)
-
-![avatar](https://raw.githubusercontent.com/x51/fofahelper/main/Menu.png)  
-## 感谢  
-* https://github.com/HandyOrg/HandyControl
-* @Vanilla
+### 资产探测 
+![image](https://user-images.githubusercontent.com/45651912/126893473-f864dbe7-e818-4ebd-b922-b5b65c1f819c.png)
+ 
+### TODO
