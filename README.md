@@ -9,7 +9,8 @@ domain=github.com&&port=80
 ```
 domain:github.com&&port:80
 ```
-### 配置
-![Uploading image.png…]()
-  
-  
+### 端口探测
+批量探测端口存活状态。
+### 指纹识别
+批量识别WEB指纹。
+### TODO
