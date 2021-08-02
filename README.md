@@ -8,6 +8,7 @@ domain=github.com&&port=80
 数据接口二稍有差别，需要指定提取模式：
 ```
 domain:github.com&&port:80
+ip:185.199.111.0/24
 ```
 ### 端口探测
 批量探测端口存活状态。
