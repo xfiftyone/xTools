@@ -1,4 +1,4 @@
-# RushA
+# XHelper
 A tool to quickly collect some information.
 ### 数据提取
 数据接口一（fofa），无需指定模式：
@@ -14,4 +14,7 @@ ip:185.199.111.0/24
 批量探测端口存活状态。
 ### 指纹识别
 批量识别WEB指纹。
+### 结果导出
+导出结果为excel。
 ### TODO
+漏洞探测
