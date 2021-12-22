@@ -3,7 +3,7 @@
 减少重复劳动，利用空间搜索引擎打点时的一个辅助性工具。
 ```
 # xTools
-A tool to quickly collect some information.
+A tool for collecting information.
 ###  使用方法
 
 首次使用，需要在程序配置界面配置好各平台认证信息：
@@ -45,9 +45,10 @@ domain=github.com&&port=80
 
 ### 结果导出（✔️）
 
-右键导出结果为cvs格式，导出结果保存在程序主目录。
+右键导出结果为csv格式，导出结果保存在程序主目录。
 
-![image](https://user-images.githubusercontent.com/45651912/147097903-47eb3fa2-3d9d-4754-afef-2db8097c30d8.png)
+![image](https://user-images.githubusercontent.com/45651912/147102388-b633dfe1-a2ac-44e0-a126-7662ac4e2e63.png)
+
 
 ### POC编写
 
