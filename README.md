@@ -1,5 +1,5 @@
 <h1 align="center">
-XTools
+xTools
 </h1>
 <h4 align="center">减少重复劳动，利用空间搜索引擎打点时的一个辅助性工具.</h4>
 <p align="center">
