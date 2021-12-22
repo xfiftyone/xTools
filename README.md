@@ -1,10 +1,13 @@
-## ❤️ 说明
-```
-减少重复劳动，利用空间搜索引擎打点时的一个辅助性工具。
-```
-# xTools
-A tool for collecting information.
-###  使用方法
+<h1 align="center">
+XTools
+</h1>
+<h4 align="center">减少重复劳动，利用空间搜索引擎打点时的一个辅助性工具.</h4>
+<p align="center">
+<a href="https://github.com/xfiftyone/xTools/issues"><img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat"></a>
+<a href="https://github.com/xfiftyone/xTools/releases"><img src="https://img.shields.io/github/release/xfiftyone/xTools"></a>
+</p>
+
+###  程序配置
 
 首次使用，需要在程序配置界面配置好各平台认证信息：
 
@@ -56,5 +59,5 @@ domain=github.com&&port=80
 
 ### TODO
 
-增加常用exploit如XX OA等；  
+漏洞利用模块；  
 增加其他空间搜索引擎；
