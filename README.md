@@ -15,7 +15,12 @@ xTools
   
 ## 🔍数据提取
 
-目前用到的是FOFA&Hunter，详细语法请参考官方页面：
+目前用到的是 `FOFA` & `Hunter`，详细语法请参考官方页面：  
+
+[FOFA](https://fofa.so/)  
+[Hunter](https://hunter.qianxin.com/)
+
+example：
 
 ```
 domain=github.com&&port=80
