@@ -41,7 +41,7 @@ domain=github.com&&port=80
 
 ![image](https://user-images.githubusercontent.com/45651912/147093207-c34b40a8-39cd-4b33-9b9f-dc75c26815c2.png)  
 
-## ✨Nmap端口扫描
+## ✨Nmap扫描
 
 如果需要调用Nmap，需要首先从[Nmap主页](https://nmap.org/download.html)下载非安装版`Latest stable command-line zipfile`到程序`extra`目录下对应文件夹。  
 
