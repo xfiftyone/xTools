@@ -9,7 +9,7 @@ xTools
 
 #  🎉开始使用
 
-首次使用，需要在程序配置界面配置好各平台认证信息，点击确定后会在程序目录生成`xTools.exe.config`，此文件保存程序所有配置信息。
+首次使用，需要在程序配置界面配置好各平台认证信息，点击确定后会在程序目录生成`xTools.exe.config`，此文件将保存程序所有配置信息。
 
 ![image](https://user-images.githubusercontent.com/45651912/147092506-87e4b46e-4286-4226-9337-f6a5f0f8bb9d.png)
   
@@ -54,7 +54,7 @@ nmap.exe {args} {ip} -vv
 
 ![image](https://user-images.githubusercontent.com/45651912/147377162-346c1512-6b73-4e06-83d1-3c442fe4bcbe.png)
 
-调用`Nmap`扫描效果：  
+调用`Nmap`扫描端口效果：  
 
 ![image](https://user-images.githubusercontent.com/45651912/147377174-375f244f-8eba-46d4-a374-464ff378b69f.png)
 
@@ -81,7 +81,7 @@ nmap.exe {args} {ip} -vv
 
 请移步https://nuclei.projectdiscovery.io/templating-guide/#template-details
 
-## ⚗️TODO 
+## ⚗️TODO
 
 增加漏洞利用模块；  
 增加其他空间搜索引擎；
