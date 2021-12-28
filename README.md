@@ -23,7 +23,8 @@ xTools
 
 首次使用，需要在程序配置界面配置好各平台认证信息，点击确定后会在程序目录生成`xTools.exe.config`，此文件将保存程序所有配置信息。
 
-![image](https://user-images.githubusercontent.com/45651912/147092506-87e4b46e-4286-4226-9337-f6a5f0f8bb9d.png)
+![image](https://user-images.githubusercontent.com/45651912/147564956-4b392e41-d03e-491a-82b2-153e63cdb061.png)
+
   
 ## 🔍数据提取
 
