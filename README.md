@@ -7,6 +7,18 @@ xTools
 <a href="https://github.com/xfiftyone/xTools/releases"><img src="https://img.shields.io/github/release/xfiftyone/xTools"></a>
 </p>
 
+# 🚩更新日志
+## beta v0.3
+
+1、增加Quake平台；
+
+2、增加Nmap扫描；
+
+
+![image](https://user-images.githubusercontent.com/45651912/147528315-5b794f0a-6c35-4563-824d-fb0a95eacb83.png)
+
+
+
 #  🎉开始使用
 
 首次使用，需要在程序配置界面配置好各平台认证信息，点击确定后会在程序目录生成`xTools.exe.config`，此文件将保存程序所有配置信息。
